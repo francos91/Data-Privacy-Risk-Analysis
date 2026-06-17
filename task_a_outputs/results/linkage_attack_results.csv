@@ -1,0 +1,5 @@
+scenario,correct,incorrect,unlinked,reid_rate
+1 QI: Country,0,0,1000,0.0
+2 QIs: Country + Rating,38,0,962,0.038
+3 QIs: + Hour,202,0,798,0.202
+4 QIs: + Length,382,0,618,0.382
