@@ -1,0 +1,2 @@
+strategy,uniqueness_before,uniqueness_after,avg_group_before,avg_group_after,data_retained,roi_pct,net_benefit_ZAR
+Gen L2 + Suppression k>=5 + DP eps=1,12.35%,0.00%,4.9,101.8,99.1%,962%,"R4,330,000"

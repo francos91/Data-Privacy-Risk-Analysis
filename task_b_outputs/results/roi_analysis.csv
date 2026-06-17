@@ -1,0 +1,9 @@
+component,probability,expected_value_ZAR
+Regulatory fines (POPIA),0.1,1000000.0
+Data breach provision (IAS37),0.15,2550000.0
+Litigation exposure,0.08,480000.0
+Incident response,1.0,750000.0
+Total Exposure,,4780000.0
+Mitigation Cost,,-450000.0
+Net Benefit,,4330000.0
+ROI,,962.2222222222222
