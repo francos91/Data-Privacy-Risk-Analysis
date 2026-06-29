@@ -1,4 +1,4 @@
-================================================================================
+
 README — How to Execute the Code for Task A and Task B in Python
 Data Science Portfolio Project | Post-block Assignment 1
 Author: Franco Saayman | Stellenbosch University
