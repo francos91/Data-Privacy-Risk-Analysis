@@ -1,7 +1,7 @@
 # Data Science Portfolio: Privacy & Risk Analysis
 
 **Author:** Franco Saayman 
-**Project:**
+
 
 ---
 
