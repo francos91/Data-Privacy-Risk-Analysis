@@ -1,7 +1,7 @@
 # Data Science Portfolio: Privacy & Risk Analysis
 
-**Author:** Franco Saayman | Stellenbosch University  
-**Project:** Post-block Assignment 1 — Task A & Task B
+**Author:** Franco Saayman 
+**Project:**
 
 ---
 
