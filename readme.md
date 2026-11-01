@@ -71,9 +71,3 @@ Disk Space: ~50 MB for generated outputs.
 
 ***
 
-### Instructions for GitHub:
-1. Go to your repository on GitHub.
-2. Click **"Add file"** > **"Create new file"**.
-3. Name the file `README.md`.
-4. Paste the content above directly into the edit box.
-5. Scroll down and click **"Commit changes"**.
